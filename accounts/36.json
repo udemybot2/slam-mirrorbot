@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudbhado",
+  "private_key_id": "0ddbcaab01d432060cf8b2d2753816a5153f12de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCS21q4j+PpXpBk\nL+HI50eymPfzcyaHqt3WVD1b3bmWg1D8BwyTsyWA8tNnX586yUmnT/JW1JGkIIjn\noffbPtM+dCjVSLMg90VVneZFxPDR7keW0+0I7n7sCP2LFhmAIDpMy2mbgQWVvaP1\n6DYKDvfSJgxcz/yuGD9zhTqQ86PWAzSh2nW7r+qJ5/Hf4foVf2OZOBLDwtgTOkim\n5yW3ovFIMs282Bt53UJ33GR5X8xt29BU1qDsePOaBKodAc6FUtIFCdZGMzNAENvd\nShr14nnm+9FbGifGThctNLe1RDWQQT/7uZnQ1tTS6ytNkmTicULLN5gyY7Okkips\nt9dqz14lAgMBAAECggEABLNKPA4FWKE5Z3uA2biAh8VA0MuNHo20ryxGRBWpeWYw\n+WATlWA7TkOqluxtYQ+APZkTEJeZ8b7fPH3nb16bZ3kgTwzjCHMU021/KUyCyLVW\nGHKM0g32hTRK3GDHGcRUsvbvvy82yb9ZuBn7YM1wPfGp0G6q9iEgjS0xqq7U15l5\nbikbpTKg9r6hHgLrdR7y8gzmiTVECtC/01Y9gY2uvP8fEMtFqjzJLH0LWYM2ok0g\nXBr/DBsrXRbwZdChLvogau6FNvMGALsEeXoI4KLF/mvqvsTLsuCBomnhmQUAUwqR\nsjQZs50TLfMVYeSUYVzdTpJGQZXo4gF1KxxbMYNsIQKBgQDOWmyh+wRDa9XOM8KS\nYmmMt94qaFKh4NJzH4mwPwDQZH8f8kqX7ZiCIsbzKgrczDTvTBJXmZvzqPCSYFW4\naF5lrEVXNOrn3p1eGT6VWiAyIjZOAcDXrFktT9UW4DDi36eStJFfhOmFpREHtFt0\nvLfBrUpgyiU60cBfixnvKamT4wKBgQC2MHfCxotEVo3DOl94SuhVSzTuDjuhAAba\nTWkSfn4pvX6nv4cQDmkLvyNTnA2k82blYAijEAFihZgDCz2vctxIlKZoI5vaDlYm\ntlzbl5pqxYPCe/fEU9RWqiyQRVT3Gkd5utTC02YiScrkTyms1bT67+TRATfsCymR\n4/giUIw0VwKBgQCnLK6xk9DiZixyv5A0U7I7JILCTH4VUzRru/MqbABW0/QBh6NS\n7lQNqesP+NGQC4gfDbwWaAXmIsmzbIRFv5gqOqR6gA6HBtzq7Py8tqU6uGjSTa1T\njPc6NGDoBXzVcGgr/EmB3wXpFc90NHObYYBlUeTeASakPmXhganjDheqDQKBgGzo\n8l6sI4qZlysSlQmq9dIvIBgCyCCJjI8pYVtd5Ht9PN54fvvZMXCFNVAA5KMroeIS\nk3cu1TUZGXMQYDKmngqBWiy8xKkIkvWXZFEdAoE7S3WSd92UI0Yfen5QA+enfPzG\n8/L3PoHWzQPIUuhv5D1x9L4AVXa0gYgl2CpjLj0HAoGAeFJn0yaA+Y6Laa+4y0lI\n0hgtNMVYdJRWd4I9RfRRJZPUuilZKaYMVal+uHa9/Z0oL0iSinYAzg5pj/qflJZh\nufXiUFUb3kcXf1ai7mXCPvsQkvEQhvh262GiS8lWG6C130+lLUPg672vJjQ7u0Kf\n4ML/4qpzch5ZgU+SET5yLgc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-hwk8x340qk2di6hb10qtwg7c8r@cloudbhado.iam.gserviceaccount.com",
+  "client_id": "101647497231533497823",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-hwk8x340qk2di6hb10qtwg7c8r%40cloudbhado.iam.gserviceaccount.com"
+}
